@@ -2745,7 +2745,7 @@ div.gdpr-component-view span.cc-services-descriptions-toggler {
     padding-bottom: 7px; } }
 
 .sb-icon {
-  background-image: url(../img/social-icons.png) !important;
+  background-image: url(../Images/social-icons.png) !important;
   background-repeat: no-repeat;
   display: inline-block;
   height: 23px;
@@ -20164,7 +20164,7 @@ ul.slick-dots li.slick-active button::after {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
-  background-image: url(../../../images/layout/menue-bg.jpg); }
+  background-image: url(../Images/menue-bg.jpg); }
 
 .nav-fullscreenmenu #bg-mainmenu > .mask {
   position: absolute;
@@ -20821,7 +20821,7 @@ body .cc-window.cc-floating .cc-highlight .cc-allowall {
 
 .gruppenstaerke-bg-dark {
   position: relative;
-  background-image: url("../../../images/home/bg-gruppenstaerke.jpg");
+  background-image: url("../Images/bg-gruppenstaerke.jpg");
   background-size: cover;
   background-position: center;
   margin-top: 30px;
@@ -20918,7 +20918,7 @@ body .cc-window.cc-floating .cc-highlight .cc-allowall {
   width: 300px;
   height: 300px;
   content: "";
-  background: url("../../../images/gruppenstaerke/kreis.png") no-repeat center center;
+  background: url("../Images/kreis.png") no-repeat center center;
   background-size: cover;
   opacity: 0;
   -webkit-transition: opacity 1s ease;
@@ -20959,7 +20959,7 @@ body .cc-window.cc-floating .cc-highlight .cc-allowall {
   width: 300px;
   height: 300px;
   content: "";
-  background: url("../../../images/gruppenstaerke/kreis.png") no-repeat center center;
+  background: url("../Images/kreis.png") no-repeat center center;
   background-size: cover;
   opacity: 1;
   -webkit-transition: opacity 1s ease;
@@ -21126,7 +21126,7 @@ body.itemid-144 ul.slick-dots button:hover {
   border: 1px solid var(--color-spezialtiefbau) !important; }
 
 body.itemid-144 .hero-container .third-layer {
-  background-image: url("../../../images/layout/blue-arrow.png") !important; }
+  background-image: url("../Images/blue-arrow.png") !important; }
 
 body.itemid-144 .content-headline-us span:nth-of-type(1),
 body.itemid-159 .content-headline-us span:nth-of-type(1) {
@@ -21171,7 +21171,7 @@ body.itemid-145 ul.slick-dots button:hover {
   border: 1px solid var(--color-resources) !important; }
 
 body.itemid-145 .hero-container .third-layer {
-  background-image: url("../../../images/layout/green-arrow.png") !important; }
+  background-image: url("../Images/green-arrow.png") !important; }
 
 body.itemid-145 .content-headline-us span:nth-of-type(1) {
   background-image: linear-gradient(to right, transparent 20%, #65b32e 75%);
@@ -21221,7 +21221,7 @@ body.itemid-146 ul.slick-dots button:hover {
   border: 1px solid var(--color-services) !important; }
 
 body.itemid-146 .hero-container .third-layer {
-  background-image: url("../../../images/layout/light-blue-arrow.png") !important; }
+  background-image: url("../Images/light-blue-arrow.png") !important; }
 
 body.itemid-146 .content-headline-us span:nth-of-type(1) {
   background-image: linear-gradient(to right, transparent 20%, #0080b5 75%);
@@ -22386,7 +22386,7 @@ main.space {
 
 #stoerer-karriere a {
   background-color: var(--color-primary);
-  background-image: url("../../../images/layout/icon-karriere.svg");
+  background-image: url("../Images/icon-karriere.svg");
   background-position: -62px 2px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -22444,7 +22444,7 @@ main.space {
 
 #stoerer-kontakt a {
   background-color: var(--color-primary);
-  background-image: url("../../../images/layout/icon-kontakt.svg");
+  background-image: url("../Images/icon-kontakt.svg");
   background-position: -62px 2px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -22519,7 +22519,7 @@ main.space {
 
 #stoerer-nachhaltigkeit a {
   background-color: #64b32e;
-  background-image: url("../../../images/layout/icon-nachhaltigkeit.svg");
+  background-image: url("../Images/icon-nachhaltigkeit.svg");
   background-position: -85px 0px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -22580,7 +22580,7 @@ main.space {
 
 #stoerer-video a {
   background-color: var(--color-primary);
-  background-image: url("../../../images/layout/icon-video.svg");
+  background-image: url("../Images/icon-video.svg");
   background-size: cover;
   background-position: -9px 15px;
   background-repeat: no-repeat;
@@ -22893,7 +22893,7 @@ table.transaktionsprozess-us h5.icon-caption {
     background-image: linear-gradient(to bottom, #ffffff 15%, #efefef 30%, #cccccc 85%); } }
 
 .row-bereiche-li-re .bg-map {
-  background-image: url("../../../images/standortkarte/karte-schatten.png");
+  background-image: url("../Images/karte-schatten.png");
   background-size: 0% 0%;
   background-repeat: no-repeat; }
 
@@ -23578,7 +23578,7 @@ body.nachhaltigkeit .fields-bereich-unten .leitbild-wrapper.checkview.active img
 
 #stoerer-terry a {
   background-color: var(--color-primary);
-  background-image: url("../../../images/layout/icon-terry.svg");
+  background-image: url("../Images/icon-terry.svg");
   background-size: cover;
   background-position: -47px 3px;
   background-repeat: no-repeat;

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="30" viewBox="0 0 35 30">
+  <defs>
+    <clipPath id="clip-marker-red">
+      <rect width="35" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="marker-red" clip-path="url(#clip-marker-red)">
+    <path id="Polygon_13" data-name="Polygon 13" d="M17.5,0,35,30H0Z" fill="#e30b1b"/>
+  </g>
+</svg>
