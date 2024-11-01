@@ -314,3 +314,45 @@ body .cc-window.cc-floating .cc-highlight .cc-allow {
 #sigplus_1003 .slideplus-stripe {
     animation-duration: 1200ms;
 }
+
+
+
+
+// personen.html inline
+.cf-field-hp {
+	display: none;
+	position: absolute;
+	left: -9000px;
+}
+.cf-field-hp{display:none;}
+#cf_2 .cf-btn:after { 
+    border-radius: 5px
+}
+
+.convertforms {
+    --color-primary: #4285F4;
+--color-success: #0F9D58;
+--color-danger: #d73e31;
+--color-warning: #F4B400;
+--color-default: #444;
+--color-grey: #ccc;
+
+}
+#cf_2 {
+    --background-color: rgba(255, 255, 255, 1);
+--border-radius: 0px;
+--control-gap: 10px;
+--label-color: #22262a;
+--label-size: 15px;
+--label-weight: 400;
+--input-color: #888888;
+--input-placeholder-color: #88888870;
+--input-text-align: left;
+--input-background-color: #ffffff;
+--input-border-color: #cccccc;
+--input-border-radius: 6px;
+--input-size: 15px;
+--input-padding: 10px 10px;
+
+}
+// personen.html inline
